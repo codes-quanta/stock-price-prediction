@@ -1,0 +1,10 @@
+setuptools
+matplotlib
+pandas
+seaborn
+yfinance
+pandas-datareader
+statsmodels
+scikit-learn
+pmdarima
+numpy
