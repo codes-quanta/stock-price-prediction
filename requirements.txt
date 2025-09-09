@@ -8,3 +8,6 @@ statsmodels
 scikit-learn
 pmdarima
 numpy
+xgboost
+nltk
+hyperopt
